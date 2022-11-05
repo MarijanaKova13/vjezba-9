@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <meta name="description" content="">
+    <meta name="keywords" content="">
+    <meta name="author" content="Marijana Kovačević">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
+    <title>Vježba 9</title>
+    <style>
+        div{
+            text-align:center;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="div">
+        <p>
+            <b>Pišem ovaj tekst</b> do it <span style="color:red;"> kao vjezbu.</span>
+            Bez veze nesto samo.
+            Eto da vjezbu napravim.
+        </p>
+        <p>
+            <b>Marijana</b> vjezba Web aplikacije <span style="color:red;"> da </span> nebi pala predmet.
+        </p>
+    </div>
+    <hr>
+    <div class="div">
+
+<p>
+    <p><b>Ovo je 9. </b> vjezba iz  <span style="color:red;">WEB APLIKACIJA,</span> moram se primiti knjige.</p>
+    <p> Ne pitajte me  <b>kako </b> i zasto <span style="color:red;">Marijana.</span></p>
+</p>
+
+
+    </div>
+</body>
+<body>
+    <footer>
+        <p>Copyright &copy; Marijana Kovačević <a href="https://github.com/MarijanaKova13"> 
+         </a> &amp; Web aplikacije. All rights reserved. </p>
+    </footer>
+</body>
+
+
+
+</html>
+
